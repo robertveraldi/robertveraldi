@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a 23 year old full-stack software developer who loves learning and is eager to leave my mark on the industry. I'm from NJ and currently call Manhattan home. I'm interested in  backend development, security, finance, and real estate. I'm a stickler for organization and communication. I enjoy exercising, reading and gaming.
+
 <!--
 **robertveraldi/robertveraldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
