@@ -49,6 +49,7 @@ hobbies: ["Gaming", "Streaming", "Working Out", "Cooking" "TV"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  alt="github" width="50" height="50" />  
 
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertveraldi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertveraldi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **robertveraldi/robertveraldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
