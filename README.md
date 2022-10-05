@@ -3,7 +3,7 @@
 ```yaml
 name: Robert Veraldi
 located_in: New York, NY
-current_job: Full Stack Developer
+current_job: On the hunt!
 education: 
   [
     "Actualize Coding Bootcamp",
