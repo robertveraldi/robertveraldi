@@ -49,12 +49,13 @@ hobbies: ["Gaming", "Streaming", "Working Out", "Cooking" "TV"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  alt="github" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  alt="bash" width="50" height="50" />
 
-### GitHub Stats
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=robertveraldi&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true" /></div>
-
-### GitHub Languages
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertveraldi&theme=dracula&layout=compact&hide_border=true" /></div>
-
+## 📈 My GitHub History!
+<a href="https://github.com/robertveraldi">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=robertveraldi&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/kadeillian21">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertveraldi&theme=dracula&layout=compact" /> 
+</a>
 
 <!--
 **robertveraldi/robertveraldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
