@@ -6,7 +6,7 @@ located_in: New York, NY
 current_job: On the hunt!
 education: 
   [
-    "Actualize Coding Bootcamp",
+    "Actualize Coding Bootcamp - Certificate in Full-Stack Web Development",
     "Indiana University - Bloomington - General Coursework in Business and Informatics"
   ]
 
