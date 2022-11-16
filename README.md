@@ -27,7 +27,7 @@ personal_background:
     "Student-Athlete - Ice Hockey, Basketball",
   ]
   
-currently_learning: ["Javascript, React.js, Vue.js, and Bootstrap"]
+currently_learning: ["Javascript, React.js, Python"]
 2022 Goals: ["Begin my career in software"]
 hobbies: ["Gaming", "Streaming", "Working Out", "Cooking" "TV"]
 ```
