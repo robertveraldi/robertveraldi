@@ -12,7 +12,7 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
+    "Web Development & Design",
     "Backend Development",
     "Project management",
     "Security",
