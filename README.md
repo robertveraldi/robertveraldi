@@ -17,7 +17,7 @@ fields_of_interests:
     "Project management",
     "Security",
     "Pen-Testing",
-    "DevOps",
+    "API's",
     "Cloud Infrastructure",
   ]
 personal_background:
