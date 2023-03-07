@@ -32,6 +32,10 @@ currently_learning: ["Javascript, React.js, Python"]
 hobbies: ["Gaming", "Working Out", "Cooking" "TV"]
 ```
 
+My Github Gists: <br>
+<a href="https://gist.github.com/robertveraldi/c63ec5dd8b050f05c20ee9efc9ec901f" target="_blank">Post Boot Camp</a> <br>
+<a href="https://gist.github.com/robertveraldi/7f488585d6465fa7d52f8e2554a8a36c" target="_blank">During Boot Camp</a>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
