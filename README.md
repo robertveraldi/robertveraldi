@@ -29,7 +29,7 @@ personal_background:
   
 currently_learning: ["Javascript, React.js, Python"]
 2022 Goals: ["Begin my career in software"]
-hobbies: ["Gaming", "Streaming", "Working Out", "Cooking" "TV"]
+hobbies: ["Gaming", "Working Out", "Cooking" "TV"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
