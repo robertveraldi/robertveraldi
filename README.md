@@ -16,7 +16,7 @@ fields_of_interests:
     "Backend Development",
     "Project management",
     "Security",
-    "Pen-Testing",
+    "DevOps",
     "API's",
     "Cloud Infrastructure",
   ]
